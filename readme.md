@@ -42,6 +42,7 @@ Azure Static Web Apps · GitHub · Git · Visual Studio Code · HTML/JavaScript
 - Ciclo de trabajo con control de versiones: editar → commit → sincronizar.
 - Despliegue automático (CI/CD) entre GitHub y Azure.
 > Nota: el sitio en vivo funcionó durante el curso y el recurso puede ya no estar activo. Las capturas muestran el resultado.
+
 Copyright (c) 2026 Irma (Deni-0295). Todos los derechos reservados.
 
 Este repositorio y su contenido (reportes, documentos, imágenes y textos)
