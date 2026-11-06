@@ -41,6 +41,13 @@ Azure Static Web Apps · GitHub · Git · Visual Studio Code · HTML/JavaScript
 - Diferencia entre una Web App y una Static Web App (frontend sin base de datos).
 - Ciclo de trabajo con control de versiones: editar → commit → sincronizar.
 - Despliegue automático (CI/CD) entre GitHub y Azure.
+> Nota: el sitio en vivo funcionó durante el curso y el recurso puede ya no estar activo. Las capturas muestran el resultado.
+Copyright (c) 2026 Irma (Deni-0295). Todos los derechos reservados.
+
+Este repositorio y su contenido (reportes, documentos, imágenes y textos)
+son propiedad de la autora. No se permite copiar, modificar, distribuir
+ni utilizar este material, total o parcialmente, sin autorización
+previa y por escrito.
 
 # Vanilla JavaScript App
 
@@ -50,5 +57,3 @@ This repo is used as a starter for a _very basic_ HTML web application using no 
 
 This repo has a dev container. This means if you open it inside a [GitHub Codespace](https://github.com/features/codespaces), or using [VS Code with the remote containers extension](https://code.visualstudio.com/docs/remote/containers), it will be opened inside a container with all the dependencies already installed.
 - Una Static Web App consume muchos menos créditos que un recurso con base de datos.
-
-> Nota: el sitio en vivo funcionó durante el curso y el recurso puede ya no estar activo. Las capturas muestran el resultado.
